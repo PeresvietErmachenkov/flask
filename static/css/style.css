@@ -1,0 +1,46 @@
+h1 {
+    border: 2px #eee solid;
+    color: rgb(10, 134, 175);
+    text-align: center;
+    padding: 10px;
+}
+
+div{
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+
+p {
+    border: 1px #eee solid;
+    color: black;
+    text-align: right;
+    padding: 5px;
+    font-size: 40px;
+    /* padding-right: 700px; */
+    
+}
+
+img {
+    text-align: left;
+    /* padding: 200px; */
+    height: 500px;
+    width: 750px;
+    /* padding-left: 450px; */
+    /* padding-bottom: 2000px; */
+}
+a{
+    position: absolute;
+    bottom: 200px;
+    left: 400px;
+    border: 3px solid orange;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+    color: azure;
+    background-color: orange;
+    
+    
+
+}
+
